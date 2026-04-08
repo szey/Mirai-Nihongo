@@ -1,0 +1,58 @@
+[
+  {
+    "lesson_id": "hira-a-row",
+    "title": "Hiragana A Row",
+    "module": "hiragana",
+    "type": "kana_row",
+    "order": 1,
+    "estimated_minutes": 5
+  },
+  {
+    "lesson_id": "hira-ka-row",
+    "title": "Hiragana Ka Row",
+    "module": "hiragana",
+    "type": "kana_row",
+    "order": 2,
+    "estimated_minutes": 5
+  },
+  {
+    "lesson_id": "kata-a-row",
+    "title": "Katakana A Row",
+    "module": "katakana",
+    "type": "kana_row",
+    "order": 3,
+    "estimated_minutes": 5
+  },
+  {
+    "lesson_id": "starter-reading-1",
+    "title": "Starter Reading 1",
+    "module": "starter_reading",
+    "type": "reading_drill",
+    "order": 4,
+    "estimated_minutes": 6
+  },
+  {
+    "lesson_id": "survival-greetings-1",
+    "title": "Greetings and Basics",
+    "module": "survival_vocab",
+    "type": "vocab_set",
+    "order": 5,
+    "estimated_minutes": 6
+  },
+  {
+    "lesson_id": "numbers-1-20",
+    "title": "Numbers 1 to 20",
+    "module": "survival_vocab",
+    "type": "vocab_set",
+    "order": 6,
+    "estimated_minutes": 6
+  },
+  {
+    "lesson_id": "quiz-kana-1",
+    "title": "Kana Quiz 1",
+    "module": "quiz",
+    "type": "quiz",
+    "order": 7,
+    "estimated_minutes": 5
+  }
+]
