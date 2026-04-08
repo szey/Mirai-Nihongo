@@ -1,0 +1,16 @@
+[
+  {"item_id":"starter-asa","word":"あさ","reading":"asa","meaning":"morning","category":"starter_reading"},
+  {"item_id":"starter-ie","word":"いえ","reading":"ie","meaning":"house","category":"starter_reading"},
+  {"item_id":"starter-neko","word":"ねこ","reading":"neko","meaning":"cat","category":"starter_reading"},
+  {"item_id":"starter-mizu","word":"みず","reading":"mizu","meaning":"water","category":"starter_reading"},
+  {"item_id":"starter-test","word":"テスト","reading":"tesuto","meaning":"test","category":"starter_reading"},
+  {"item_id":"greet-ohayou","word":"おはよう","reading":"ohayou","meaning":"good morning","category":"greetings"},
+  {"item_id":"greet-konnichiwa","word":"こんにちは","reading":"konnichiwa","meaning":"hello","category":"greetings"},
+  {"item_id":"greet-arigatou","word":"ありがとう","reading":"arigatou","meaning":"thank you","category":"greetings"},
+  {"item_id":"basic-watashi","word":"わたし","reading":"watashi","meaning":"I; me","category":"basics"},
+  {"item_id":"num-1","word":"いち","reading":"ichi","meaning":"1","category":"numbers"},
+  {"item_id":"num-2","word":"に","reading":"ni","meaning":"2","category":"numbers"},
+  {"item_id":"num-3","word":"さん","reading":"san","meaning":"3","category":"numbers"},
+  {"item_id":"num-4","word":"よん","reading":"yon","meaning":"4","category":"numbers"},
+  {"item_id":"num-5","word":"ご","reading":"go","meaning":"5","category":"numbers"}
+]
