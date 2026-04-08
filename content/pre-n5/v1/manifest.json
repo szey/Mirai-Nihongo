@@ -1,0 +1,14 @@
+{
+  "stage": "pre-n5",
+  "version": "v1",
+  "title": "Pre-N5 Foundation",
+  "description": "A beginner-first Japanese foundation focused on kana, starter reading, greetings, numbers, and simple quiz loops.",
+  "estimated_total_sessions": 20,
+  "modules": [
+    "hiragana",
+    "katakana",
+    "starter_reading",
+    "survival_vocab",
+    "quiz"
+  ]
+}
